@@ -39,13 +39,9 @@ Time spent: 3
 
 - [x] Pull down to show the "last" hidden message again (to undo)
 
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1. 
-2. 
 
 ### Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/theonekaran/mailbox/blob/master/Mailbox/mailbox_walkthrough_prep.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
